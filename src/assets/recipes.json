@@ -1,0 +1,974 @@
+{
+    "recipes": {
+        "biscuits_and_gravy": {
+            "name": "Biscuits and Gravy",
+            "ingredients": [
+                "1 Batch of Big Daddy Biscuits",
+                "8 oz sausage",
+                "1/4 cup butter",
+                "1/3 cup flour",
+                "2 cups milk",
+                "1 cup water",
+                "1 tsp salt",
+                "1 tsp black pepper"
+            ],
+            "instructions": "Prepare biscuits and bake them while you make the gravy. Cook and stir the sausage in skillet over medium heat. Drain the fat. Melt the butter in pan with sausage, then sprinkle with the flour and mix it in. Slowly stir in the milk, water, salt and pepper and continue stirring until the gravy thickens and comes to a simmer. Break the warm biscuits in half and cover with the gravy."
+        },
+        "able_skivers": {
+            "name": "Able Skivers",
+            "ingredients": [
+                "2 cups flour",
+                "2 tsp. baking powder",
+                "1/2 tsp. salt",
+                "1/2 tsp. baking soda",
+                "2 Tbl. sugar",
+                "2 cups buttermilk",
+                "2 eggs"
+            ],
+            "instructions": "Mix dry ingredients then add liquids. Cook on medium heat in Able Skiver pan turning over after a few minutes. Serve with powdered sugar, syrup or jam."
+        },
+        "german_pancakes": {
+            "name": "German Pancakes",
+            "ingredients": [
+                "6 eggs",
+                "1/2 tsp. salt",
+                "1 tsp vanilla",
+                "1 cup flour",
+                "1 cup milk",
+                "1 cube butter"
+            ],
+            "instructions": "Combine eggs, milk, salt and vanilla and blend. Add flour a little at a time until incorporated. Melt butter in 9x13 pan. When butter is bubbling, pour in batter. Bake at 425* for 25 minutes."
+        },
+        "grandma’s_perpetual_muffins": {
+            "name": "Grandma’s Perpetual Muffins",
+            "ingredients": [
+                "4 c. All Bran",
+                "2 c. 100% Bran",
+                "2 c. boiling water",
+                "1 quart buttermilk",
+                "3 c. sugar",
+                "1 c. oil",
+                "4 beaten eggs",
+                "5 c. flour",
+                "5 tsp. Baking soda",
+                "1 tsp salt"
+            ],
+            "instructions": "Pour boiling water over cereal and let it sit 2 minutes Add: buttermilk, sugar, oil, and eggs Mix together and then add flour, baking soda, and salt Microwave in paper bowl for 2 minutes Store in fridge up to 3 weeks in airtight container"
+        },
+        "taco_dip": {
+            "name": "Taco Dip",
+            "ingredients": [
+                "1 Large can of refried beans",
+                "1 8 oz pkg. cream cheese, softened",
+                "1 cup sour cream",
+                "1 clove garlic, minced",
+                "2 Tbl. taco seasoning",
+                "2 cups shredded cheddar cheese",
+                "1 tomato, diced",
+                "1/2 bunch green onions, sliced thin",
+                "1/2 can black olives, sliced"
+            ],
+            "instructions": "Spread beans in bottom of 9x12 pan. Mix cream cheese, sour cream, garlic and taco seasoning. Spread on beans. (Optional bake at 350* for 20 min.) Top with cheese. Garnish with tomato, olives and green onions and cilantro. Serve with tortilla chips."
+        },
+        "really_great_salsa": {
+            "name": "Really Great Salsa",
+            "ingredients": [
+                "4 -2 lb. cans of Hunts stewed tomatoes or Diced garden tomatoes",
+                "1 large onion",
+                "1 bunch cilantro",
+                "3 jalapenos"
+            ],
+            "instructions": "Juice of 1 lime 1 tsp. salt 3 tsp. sugar 2-3 Tbl. Schilling taco seasoning 1 head of garlic 1 Roasted corn Blend the tomatoes and put in large bowl. Chop onion until fine. Mince garlic and add these to tomatoes. Add roasted corn and seasonings. Chop cilantro and jalapenos. Stir into salsa and refrigerate overnight or process 25 minutes to seal. Makes about 5 quarts."
+        },
+        "cheese_dip": {
+            "name": "Cheese Dip",
+            "ingredients": [
+                "1 box Velveeta cheese",
+                "1 c. milk",
+                "1 can rotel tomatoes, do not drain",
+                "1 can refried beans",
+                "1 can Hormel chili, no beans"
+            ],
+            "instructions": "Melt cheese and milk on low in crockpot. Add remaining ingredients and stir occasionally"
+        },
+        "fruit_dip": {
+            "name": "Fruit Dip",
+            "ingredients": [
+                "1 c. sour cream",
+                "2 Tbl. Dark brown sugar",
+                "½ tsp. Vanilla"
+            ],
+            "instructions": "Whisk together all ingredients until smooth. Refrigerate for at least one hour or even overnight."
+        },
+        "cream_cheese_caramel_apple_dip": {
+            "name": "Cream Cheese Caramel Apple Dip",
+            "ingredients": [
+                "8 oz cream cheese",
+                "⅓ c powdered sugar",
+                "1 tsp vanilla extract"
+            ],
+            "instructions": "Mix together and spread in serving dish Spread ⅔ c caramel dip over cream cheese mixture then top with 2 Tbl toffee bits, 1 Tbl chopped peanuts and 1 Tbl chopped walnuts. Serve with sliced apples."
+        },
+        "clam_chowder": {
+            "name": "Clam Chowder",
+            "ingredients": [
+                "2 cups of peeled and diced potatoes",
+                "1 cup onion, finely chopped",
+                "3/4 cup celery, finely chopped",
+                "1 cup diced carrots"
+            ],
+            "instructions": "Place in stockpot and cover with water. Cook over medium heat until tender, about 20 minutes. In small saucepan melt 3/4 cup butter and whisk in 3/4 cup flour. Cook, stirring constantly for 1 minute then add 1 quart half and half 1 1/2 tsp salt 1/2 tsp sugar Heat until thickened and then add to stockpot with 2 -6 oz cans of minced clams"
+        },
+        "tomato_tortellini_soup": {
+            "name": "Tomato Tortellini Soup",
+            "ingredients": [
+                "9 oz frozen tortellini",
+                "2 (10.5 oz) tomato soup",
+                "2 c. chicken broth",
+                "2 c. milk",
+                "2 c. cream",
+                "½ c. sun dried tomatoes",
+                "1 tsp. Onion powder",
+                "1 tsp. Garlic powder",
+                "1 tsp. Dried basil",
+                "½ tsp. Salt",
+                "½ c. shredded parmesan cheese"
+            ],
+            "instructions": "Cook tortellini as directed Meanwhile, in a large stockpot, combine soup, broth, milk, cream, tomatoes and seasonings. Heat through, stirring frequently. Drain tortellini and add to soup. Stir in cheese. Sprinkle each serving with additional cheese."
+        },
+        "sausage_and_kale_soup,_southern_style": {
+            "name": "Sausage and Kale Soup, Southern Style",
+            "ingredients": [
+                "2 lbs sausage",
+                "1 onion, diced",
+                "6 cloves garlic, minced",
+                "4 cups chicken broth",
+                "6-8 potatoes, chopped",
+                "1 tsp. salt",
+                "1/2 tsp. ground pepper",
+                "1 pint heavy cream",
+                "1 pint (2 cups) milk",
+                "1 bunch of fresh kale, chopped. (approximately 4 cups)"
+            ],
+            "instructions": "Brown sausage in soup pot. Add onions and garlic and continue to cook for 2-3 minutes. Add chicken broth. Add potatoes and salt and enough water to cover potatoes. Bring broth to a low boil, cover pot, reduce heat to simmer and cook for 20 minutes. Gently whisk in cream and milk until broth becomes smooth and creamy. Taste for seasoning and add more salt and pepper if desired. Continue cooking until chowder begins to simmer then stir in kale and turn off heat. Let soup stand for 10 minutes before serving."
+        },
+        "yummy_creamed_chicken_soup": {
+            "name": "Yummy Creamed Chicken Soup",
+            "ingredients": [
+                "1/4 cup butter - Saute in pot:",
+                "1/2 cup onion, chopped",
+                "1 cup chicken, diced (1-2 chicken breasts)",
+                "2 cups chopped potatoes",
+                "1/2 cup chopped celery - Then add:",
+                "2 cups chicken broth",
+                "1-2 chopped carrots - Simmer until tender (about 20 minutes), then add:",
+                "1 can creamed corn",
+                "1 can corn",
+                "12 oz evaporated milk"
+            ],
+            "instructions": "Salt and pepper to taste. Bring to a boil then turn off heat."
+        },
+        "ham,_potato_and_corn_chowder": {
+            "name": "Ham, Potato and Corn Chowder",
+            "ingredients": [
+                "3 thick slices of bacon, chopped",
+                "1 ham steak, cubed or leftover ham on bone",
+                "1 medium onion, chopped fine",
+                "2 garlic cloves, minced",
+                "6 large red skin potatoes, diced"
+            ],
+            "instructions": "(3) 10 oz. cans of sweet corn 1 can condensed cream of celery soup ½ c. white wine 4 c. water 2 Tbl. Herbs de Provence (can substitute with oregano and thyme) 2-3 chicken bouillon cubes 3 bay leaves 2 Tbl butter 2-3 c. milk 1 c. heavy cream Salt and Pepper to taste In large cast iron pot, melt butter on medium-high heat. Add in chopped bacon, stirring often with a wooden spoon. Once the bacon is cooked, add white wine to scrape up bits from the bottom of the pot. Add onion and garlic and cook for 2-3 minutes stirring often. Add ham and corn and cook for another 2-3 minutes. Add in chopped potatoes, cream cheese, cream of celery soup and milk and give everything a good stir. Add seasonings and water. Be careful not to add too much salt as ham and bacon are already salty. Reduce heat to low setting, cover and cook for about an hour. If using ham on bone, remove bone and strip of meat. Put meat back into pot and discard bone. Add heavy cream and heat through."
+        },
+        "taco_soup": {
+            "name": "Taco Soup",
+            "ingredients": [
+                "1 can diced tomatoes",
+                "1 can corn",
+                "1 can olives, drained and sliced",
+                "1 can kidney beans",
+                "1 lb. ground beef",
+                "1 pkg. taco seasoning"
+            ],
+            "instructions": "Tortilla chips Cheese Sour cream Brown ground beef and drain off grease. Add taco seasoning to meat. Dump tomatoes, corn, olives and beans into pot with hamburger and bring to a boil. Serve with chips, cheese and sour cream. Cream of Chicken Soup 1 c. chopped celery 1 c. chopped onion 1 c. sliced mushrooms 4 Tbl. butter 4 c. chicken stock 3 Tbl flour 2 c. milk 2 c. cooked vegetables 1-2 c. cooked chicken 1 tsp salt Saute celery, onions, and mushrooms in 1 Tbl butter. Add stock and simmer 20 minutes. Melt remaining butter and stir in flour. Add to stock mixture and simmer 5 minutes. Stir in milk, vegetables and chicken. Add seasoning and simmer 4-5 minutes more before serving."
+        },
+        "cafe_rio_sweet_pork": {
+            "name": "Cafe Rio Sweet Pork",
+            "ingredients": [
+                "2 lbs pork",
+                "1 can Dr. Pepper",
+                "1 c. brown sugar",
+                "3 minced garlic cloves",
+                "1 diced onion",
+                "1 can diced green chilies",
+                "10 oz red enchilada sauce",
+                "1 tsp. Cumin",
+                "2 Chicken bouillon cubes"
+            ],
+            "instructions": "Put all ingredients in a crockpot and cook on low for 8 hours or high for 3-4 hours. Remove pork from pot and shred. Put shredded pork back in pot and cook on low an additional 2 hours"
+        },
+        "chicken_pot_pie": {
+            "name": "Chicken Pot Pie",
+            "ingredients": ["1-2 chicken breasts"],
+            "instructions": "Cover chicken in water with a teaspoon minced garlic and 1/2 of onion,chopped. Bring to a boil then simmer until tender. Reserve broth. Remove chicken breast to cutting board and dice. Dice 3 potatoes and 3 carrots. Boil potatoes and carrots in reserved chicken broth adding enough water to cover for 15-20 minutes until soft and then add chicken and 1c. frozen peas. Add 1 can cream of chicken soup and 1c. of heavy cream. We want the mix to be a bit soupy. Season with salt and pepper to taste and ½ tsp. Rosemary. Place in a prepared pie dish and top with pie dough. Slice a few vents into pie crust then bake at 350* 40 minutes."
+        },
+        "fettuccine_alfredo": {
+            "name": "Fettuccine Alfredo",
+            "ingredients": [
+                "1 pack of Fettuccine noodles or favorite pasta",
+                "6 Tbl butter",
+                "1 1/2 cups whipping cream",
+                "1 cup fresh grated Parmesan cheese"
+            ],
+            "instructions": "salt and pepper ground nutmeg (optional) frozen peas or broccoli florets Cook pasta in salted, boiling water. Melt butter in large frying pan until lightly browned. Add 1 cup of the cream and cook until thickened on medium high heat, stirring frequently. Add parmesan cheese and remaining cream. Add salt and pepper and sprinkle generously with nutmeg. Add vegetables if desired and heat through. Serve over cooked and drained pasta. I also like to cook diced chicken in butter and a bit of garlic before starting sauce in same pan."
+        },
+        "chicken_on_rice": {
+            "name": "Chicken on Rice",
+            "ingredients": [
+                "2 cup rice",
+                "2 can cream of mushroom soup",
+                "2 can cream of chicken soup",
+                "1 1/2 cups milk",
+                "2 cups grated cheese",
+                "1 chicken, cut up and skinned",
+                "2 envelopes onion soup mix"
+            ],
+            "instructions": "Butter a 9x12 inch casserole dish. Put rice on bottom and add soups, cheese and milk. Mix together. Lay chicken across rice. Sprinkle with onion soup mix and seal with foil. Bake at 300* for 2 1/2 hours."
+        },
+        "easy_oven_lasagne": {
+            "name": "Easy Oven Lasagne",
+            "ingredients": [
+                "1 lb. ground beef",
+                "1 25 oz bottle Marinara Sauce",
+                "1/2 tsp salt",
+                "3/4 cup water",
+                "1 cup ricotta or cottage cheese",
+                "10-12 uncooked lasagna noodles",
+                "12 oz mozzarella cheese, grated",
+                "1/2 cup mild cheddar cheese"
+            ],
+            "instructions": "Brown ground beef and drain. Add marinara sauce, salt and water. Simmer 10 minutes. Coat bottom of 9x13 pan with approx. 1/2 cup sauce. Next layer 4-5 uncooked noodles. Spread about 1/2 cup of ricotta or cottage cheese and 4 oz of mozzarella. Top with more sauce and repeat layering, finishing with mozzarella on top. add cheddar cheese to top for color and then cover and bake for 1 hour at 350*"
+        },
+        "meatloaf": {
+            "name": "Meatloaf",
+            "ingredients": [
+                "1 c. oats",
+                "2 lb. ground beef",
+                "2 eggs",
+                "1 c. ketchup",
+                "¾ c. milk",
+                "1 tsp. Salt",
+                "¼ tsp. Ground black pepper",
+                "2 tsp. Ground sage"
+            ],
+            "instructions": "Brown sugar for sprinkling atop (optional) In large bowl combine all ingredients, except brown sugar, and mix well. Place into a square cake pan and spread approx. ½ c. more ketchup across the top of the meatloaf. Sprinkle generously with brown sugar. Bake uncovered for one hour at 350 degrees."
+        },
+        "chili": {
+            "name": "Chili",
+            "ingredients": [
+                "1 lb pkg pinto beans",
+                "2 lbs. ground beef",
+                "2 cans (10oz) chicken broth",
+                "1/2 cup tomato sauce",
+                "1 quart jar diced tomatoes",
+                "3 Tbl. pure California chili powder",
+                "1 Tbl. pure New Mexico chili powder",
+                "3 Tbl. Gebhardt chili powder",
+                "2 Tbl. cumin",
+                "1 tsp salt",
+                "1 onion, chopped",
+                "5-7 cloves garlic, minced"
+            ],
+            "instructions": "Prepare beans as directed on package. I soak overnight then drain soak water. Place beans in stockpot with fresh water and bring to a boil. Cook for about 4-6 hours or until tender. Do not salt beans yet as this prevents the beans from softening. In large skillet, saute onions and garlic until lightly glazed. Add ground beef and cook until no longer pink. Add all spices and then add to the pot of cooked beans. Bring to a boil, then reduce the heat and simmer for 2 1/2 hours adding more chicken broth if chili is too thick. You can substitute 7 Tbl. of a good chili seasoning if you don't have the specific kinds. This can be made in a crock pot as well. Cook beans in crock-pot 6 hours on high heat. Make sure beans do not dry out. Add additional boiling hot water as needed. Add sauteed beef to crock-pot and cook on high heat for 2 ½ to 3 hours on high heat or until beans have fully softened."
+        },
+        "crock_pot_chicken_chili": {
+            "name": "Crock Pot Chicken Chili",
+            "ingredients": [
+                "2-3 chicken breasts",
+                "1 can Rotel tomatoes",
+                "1 can corn, do not drain",
+                "2-3 cans black beans, drained and rinsed",
+                "1 Tbl. Cumin",
+                "1 Tbl. chili powder",
+                "1 tsp. onion powder",
+                "1 tsp. garlic powder",
+                "1 8 oz. pkg. cream cheese"
+            ],
+            "instructions": "Place chicken in crock pot and top with remaining ingredients, except the cream cheese. Cook on low 6-8 hours. Pull chicken out and shred. Return to pot and add cream cheese. Cook for 30 min. longer then stir in cheese. Serve with chips or tortillas and shredded cheese."
+        },
+        "chicken_salad": {
+            "name": "Chicken Salad",
+            "ingredients": [
+                "4 c. shredded chicken",
+                "1 cup red grapes, halved or quartered",
+                "1 red apple, chopped",
+                "1 c. celery, chopped",
+                "½ c. pecans, chopped",
+                "½ c. mayonnaise",
+                "½ c. plain yogurt"
+            ],
+            "instructions": "Salt and pepper to taste Mix mayo and yogurt in a bowl and add remaining ingredients, tossing to coat. Cover and place in refrigerator at least 30 min. Prior to serving. Will keep in fridge for up to one week."
+        },
+        "bourbon_chicken": {
+            "name": "Bourbon Chicken",
+            "ingredients": [
+                "1 Tbl. olive oil",
+                "2 lb. chicken thighs, boneless and skinless",
+                "1 tsp ginger paste",
+                "1 tsp. Minced garlic",
+                "¼ tsp black pepper",
+                "⅓ c. soy sauce",
+                "⅓ c. Bourbon",
+                "½ c. water",
+                "1 Tbl. saki or rice vinegar",
+                "½ c. brown sugar, tightly packed",
+                "1 Tbl. cornstarch dissolved in 3 Tbl. cold water"
+            ],
+            "instructions": "Slice chicken, removing any excess fat or skin. In a small bowl combine the ginger, pepper, soy sauce, bourbon, water, garlic saki and brown sugar. Set aside. In large pan, saute the chicken in olive oil, stirring occasionally until chicken is browned evenly. Add the Bourbon mixture and stir well. Allow liquid to come to a boil then reduce heat to medium and simmer uncovered about 15 minutes. Finally, add in the cornstarch mixture and stir briskly. The sauce will thicken quickly."
+        },
+        "mongolian_beef": {
+            "name": "Mongolian Beef",
+            "ingredients": [
+                "1 Tbl. oil",
+                "1-2 tsp. Minced ginger",
+                "1 Tbl .minced garlic",
+                "1/2 c. soy sauce",
+                "½ c. water",
+                "¾ c. dark brown sugar",
+                "1 c. oil",
+                "1 ½ lbs. Flank steak",
+                "½ c. cornstarch",
+                "¼ tsp. Red pepper flakes",
+                "1 bunch green onions, cut on diagonal into 1 inch pieces."
+            ],
+            "instructions": "Make the sauce. Heat 1 Tbl. oil over medium heat. And ginger and garlic and stir for 30 seconds. Add soy sauce, water and brown sugar and bring to a boil. Simmer for 10 minutes. Slice steak against the grain into ¼ inch slices and shorten long slices into bite size. Toss steak with cornmeal and let sit 10-15 minutes. Heat 1 c. oil in large pan over medium high heat. Add beef and cook 2-3 minutes, until brown and crispy. Remove meat with slotted spoon and discard excess oil. Place meat back into pan with sauce and cook over medium heat for 1 minute, stirring to coat. Add red pepper flakes and green onions and remove from heat. Serve over rice."
+        },
+        "crock-pot_roast_beef": {
+            "name": "Crock-Pot Roast Beef",
+            "ingredients": [
+                "4-5 pound beef roast",
+                "⅓ c. packed brown sugar",
+                "3 Tbl. Balsamic vinegar or cider vinegar",
+                "1 Tbl. Worcestershire sauce",
+                "1 tsp. Minced garlic",
+                "1 can condensed cream of mushroom soup",
+                "1 packet onion soup mix",
+                "1 c. chicken broth"
+            ],
+            "instructions": "First, sear both sides of the roast in 2 Tbl. olive oil in hot pan, then place in crockpot. In a medium bowl, mix all the other ingredients and then pour over the roast. You can add carrots and potatoes to the slow cooker if it is large enough to hold them. Cook on high heat for 5 to 6 hours or on low heat for 10 to 12 hours."
+        },
+        "dutch_oven_chicken": {
+            "name": "Dutch Oven Chicken",
+            "ingredients": ["1 chicken"],
+            "instructions": "Place chicken in bottom of dutch oven. Top with sliced onions, minced garlic and peeled carrots and quartered potatoes. Sprinkle a cube of sliced butter over everything. Salt and Pepper. Cook over hot coals and place more hot coals on lid of dutch oven for about 20 minutes per pound or until the chicken reaches 165 degrees."
+        },
+        "chicken_tacos": {
+            "name": "Chicken Tacos",
+            "ingredients": [
+                "2 tsp chili powder",
+                "1 tsp cumin",
+                "1 tsp smoked paprika",
+                "1 tsp oregano",
+                "½ tsp garlic powder"
+            ],
+            "instructions": "Salt and pepper to taste 1 ½ lbs chicken 1 tbls oil Combine all spices, season chicken. Heat oil in large cast iron over medium heat, thoroughly cook chicken. Let rest before slicing."
+        },
+        "cajun_chicken_pasta": {
+            "name": "Cajun Chicken Pasta",
+            "ingredients": [
+                "2 chicken breasts",
+                "2 tbls olive oil, divided",
+                "1 tbls cajun seasoning",
+                "8 oz penne pasta",
+                "2 tbls butter",
+                "3 cloves minced garlic",
+                "1 cup heavy cream"
+            ],
+            "instructions": "Optional ½ tsp lemon zest ¼ cup grated parmesan cheese Salt and pepper to taste Roma Tomato diced Chopped fresh parsley to taste In a bag place 1 tbls of oil and 1 tbls cajun seasoning and shake, coating thoroughly. Heat remaining oil in a cast iron pan. Cook thoroughly. While the chicken is cooking, cook pasta to package instructions. Melt butter over medium heat right before the butter browns add minced garlic. Whisk in heavy cream and lemon zest. Once fully incorporated, add cheese. Season with salt and pepper. Garnish with tomatoes and parsley."
+        },
+        "oven_roasted_bbq_chicken": {
+            "name": "Oven Roasted BBQ Chicken",
+            "ingredients": [
+                "1 lb chicken breast",
+                "½ cup bbq sauce",
+                "1 tbls olive oil",
+                "¼ tsp garlic powder",
+                "¼ tsp onion powder",
+                "½ tsp salt",
+                "½ tsp pepper"
+            ],
+            "instructions": "Preheat to 400, line with parchment paper. Combine spices, rub oil onto chicken, then sprinkle on spices. Place in the oven and cook for 20 min, using a brush brush on some sauce. Bake for another 10 min. Brush again and bake for a remaining 10-15. Let rest for 5 minutes before serving."
+        },
+        "garlic_sesame_chicken": {
+            "name": "Garlic Sesame Chicken",
+            "ingredients": [
+                "¼ cup flour",
+                "½ tsp onion powder",
+                "¼ tsp pepper"
+            ],
+            "instructions": "⅛ red pepper 1 lb chicken cut into pieces 2 tbls oil ¼ cup + 1 tbls honey 1 tsp rice vinegar (or cooking sake) 3 tbls soy sauce 2 large cloves of minced garlic ⅛ tsp red pepper flakes ½ tsp sesame seeds Optional green onion Heat 2 tbls oil over medium heat. Combine flour, red pepper, and onion powder in a bag, add cut chicken and shake to coat thoroughly. Cook in the pan until it starts to brown. Mix together honey, rice vinegar, garlic, red pepper, and soy sauce. Once chicken is cooked add sauce. Allow sauce to simmer for about 10 min until thick. Add sesame seeds and green onion right before you serve."
+        },
+        "honey_barbeque_wings": {
+            "name": "Honey Barbeque Wings",
+            "ingredients": [
+                "20 wings (approx.)",
+                "1 c. barbeque sauce",
+                "1/2 c. honey",
+                "1/4 c. brown sugar",
+                "1 tsp. garlic powder",
+                "1 tsp. onion powder",
+                "1 tsp. smoked paprika",
+                "1/2 tsp. cayenne",
+                "1/2 tsp. black pepper"
+            ],
+            "instructions": "Wash and dry chicken. Place in a large bowl. Combine remaining ingredients in a separate bowl, then mix about 2/3 of the sauce in with wings until coated. cover with plastic wrap and let chicken marinate at least a few hours to overnight in refrigerator. Preheat grill to about 375, then cook wings for about 7-10 minutes per side, coating generously with remaining sauce as cooking. Larger wings may take longer to cook. When finished cooking, place on a hot tray and create a foil tent to cover wings for 5-10 minutes before serving."
+        },
+        "funeral_potatoes": {
+            "name": "Funeral Potatoes",
+            "ingredients": [
+                "3 lbs. Frozen hashbrowns or freshly grated potatoes",
+                "½ finely chopped onion",
+                "½ c. butter",
+                "1 c. sour cream",
+                "2 cans cream of chicken soup",
+                "2 c. shredded sharp cheddar cheese"
+            ],
+            "instructions": "Put the frozen hashbrowns in the refrigerator overnight to thaw. (you can use frozen ones but you have to cook it much longer) Melt butter and add onion to saute. Mix sour cream, soup and cheese together in a large bowl. Add butter and onion then stir in hashbrowns. Put into a 9X13 or bigger pan, cover with foil and bake at 350 for 1 ½ hours to 2 hours. Test for doneness. Optional, heat 3 Tbl. butter in skillet and add 3c. slightly crushed corn flakes, stirring often until browned. Add to top of potatoes once they are soft and then bake for an additional 20 minutes."
+        },
+        "macaroni_and_cheese_for_grownups": {
+            "name": "Macaroni and Cheese for grownups",
+            "ingredients": [
+                "2 cups cottage cheese",
+                "1 cup sour cream",
+                "1 egg, slightly beaten",
+                "8 or more ounces shredded s",
+                "1 pkg. uncooked macaroni"
+            ],
+            "instructions": "harp cheddar cheese ½ cup Guyere cheese, shredded 1 cup milk Mix uncooked macaroni and other ingredients together, put in greased casserole dish. Sprinkle with Paprika. Cook, covered, at 350* for 30 minutes then remove cover and cook additional 15 min."
+        },
+        "best_mac_and_cheese_ever": {
+            "name": "Best Mac and Cheese Ever",
+            "ingredients": ["16 oz elbow macaroni"],
+            "instructions": "Sauce: 1 Tbl. olive oil 6 Tbl. butter ⅓ c. flour 3 c. whole milk 1 c. heavy whipping cream 4 c. sharp cheddar (can substitute) 2 c. Gruyere cheese Topping: 1 ½ c. panko crumbs ½ c. parmesan cheese ¼ tsp. Smoked paprika 4 Tbl. melted butter"
+        },
+        "heavenly_baked_beans": {
+            "name": "Heavenly Baked Beans",
+            "ingredients": [
+                "2 large cans pork and beans",
+                "3 Tbl. Worcestershire sauce",
+                "1 lb. bacon, cooked and cut up",
+                "1/2 tsp. dried mustard",
+                "1 cup ketchup",
+                "1 onion, chopped",
+                "1 green pepper, chopped (optional)",
+                "1/2 tsp. Accent",
+                "1/2 cup brown sugar"
+            ],
+            "instructions": "Mix together and bake, covered, at 350* for 3 hours. In a crock pot, 5 hours on low or 2 on high."
+        },
+        "grandma_great’s_jello_salad": {
+            "name": "Grandma Great’s Jello Salad",
+            "ingredients": [
+                "1 Small tub of cottage cheese",
+                "1 Can of crushed pineapple, drained",
+                "8 oz. cool whip",
+                "1 pkg dry jello"
+            ],
+            "instructions": "Mix and refrigerate"
+        },
+        "creamy_holiday_corn": {
+            "name": "Creamy Holiday Corn",
+            "ingredients": [
+                "1 lb. frozen corn (5 lbs)",
+                "1 and ½ cups heavy cream (71/2c.) 64 oz",
+                "½ tsp salt (2 ½ tsp.)",
+                "2 Tbl. sugar (10 Tbl.)"
+            ],
+            "instructions": "Pinch of pepper 1 and ½ Tbl. softened butter (7 ½ Tbl.) 1 and ½ Tbl. flour (7 ½ Tbl.) 3 Tbl finely shredded parmesan (15 Tbl.) Combine corn, cream, salt, sugar and pepper in a pot and bring it to a boil. Simmer for 5 minutes. In a small bowl, mix flour and butter until completely smooth. Add to corn mixture and stir until well combined. Return to a boil. Simmer for one minute. Remove from heat and pour into an 8 or 9 inch square buttered oven-proof dish (or a large baking dish for a crowd) Sprinkle corn with parmesan cheese and bake at 425 degrees until hot and bubbly.Approx. 20-30 minutes"
+        },
+        "fried_rice": {
+            "name": "Fried Rice",
+            "ingredients": [
+                "1 c. Jasmine rice",
+                "1 ¾ c. chicken broth",
+                "3 tsp. Sesame oil",
+                "2 eggs",
+                "⅓ c. shoestring carrots",
+                "⅓ c. frozen peas",
+                "¼ c. green onion, sliced",
+                "⅓ c. fresh bean sprouts",
+                "3 Tbl. soy sauce",
+                "½ tsp. Ground mustard",
+                "½ tsp. Minced ginger",
+                "1 tsp. Minced garlic",
+                "2 tsp. Molasses"
+            ],
+            "instructions": "Heat chicken broth to boiling then add rice and turn down to simmer for 15 minutes until liquid is absorbed. (If rice is not going to be consumed right away, it is better to refrigerate it overnight and use the cold rice in the recipe) Whisk together soy sauce, mustard, ginger, garlic, and molasses and set aside. Warm up stir fry pan and crack eggs into pan and scramble. Stir in 1 tsp sesame oil and carrots. Then add green onion, peas and bean sprouts and stir fry for 3 minutes. Add rice and remaining sesame oil and mix. Add soy sauce mix and heat through. Serve and top with green onion. Optional: add in cooked chicken, pork, shrimp or ham."
+        },
+        "tomatillo_ranch_dressing": {
+            "name": "Tomatillo Ranch Dressing",
+            "ingredients": [
+                "½ bunch fresh cilantro",
+                "1 garlic clove",
+                "1 jalapeno",
+                "2 tomatillos",
+                "1 tsp lime juice",
+                "1 cup mayonnaise",
+                "1 ounce ranch dressing mix",
+                "1 c buttermilk"
+            ],
+            "instructions": "Remove stems from cilantro and Blend all ingredients until smooth"
+        },
+        "sourdough_french_bread": {
+            "name": "Sourdough French Bread",
+            "ingredients": [
+                "1 c. sourdough starter (227 g)",
+                "1 ¼ c. water (295 g)",
+                "2 tsp. Salt (10 g)",
+                "4 c. flour (560 g)",
+                "1 Tbl. honey (17 g)",
+                "2 Tbl olive oil (27 g)"
+            ],
+            "instructions": "Feed starter 4-12 hours before starting recipe. It should be active and bubbly. Knead all ingredients in a stand mixer for 5-10 minutes until dough is stretchy and pulling away from sides of bowl. Place in a large greased bowl and cover with a beeswax wrap. Allow to ferment for 8-24 hours in a warm place. It should double in size. Punch down dough and divide into 2 equal parts. Shape into a flat rectangle and roll up to form loaf. Place the bread onto a parchment lined baking sheet. Let rise a few hours until doubled again. Slash with lame. Preheat oven to 400 degrees. Bake for 25 minutes. For a more golden crust, add ice cubes to oven. Once done baking, allow bread to cool completely before slicing."
+        },
+        "white_bread": {
+            "name": "White Bread",
+            "ingredients": [
+                "6 cups warm water - Mix together:",
+                "4 Tbl. Yeast",
+                "1/2 cup honey - Let dissolve then add:",
+                "2/3 cup oil",
+                "2 eggs",
+                "2 Tbl. salt",
+                "1 cup sugar",
+                "15-16 cups flour"
+            ],
+            "instructions": "Knead well. Let rest 1/2 hour then divide into 6 loaves. Let rise then bake at 350* for 30 minutes."
+        },
+        "pizza_dough": {
+            "name": "Pizza Dough",
+            "ingredients": [
+                "1 Tbl. active dry yeast",
+                "1 c. warm water",
+                "1 Tbl. honey",
+                "2 Tbl. olive oil",
+                "¼ tsp. Salt",
+                "3 to 4 c. flour"
+            ],
+            "instructions": "Mix the yeast, water and honey in a bowl and let stand until foamy. Mix in oil. Mix in flour 1 cup at a time until dough is soft and only slightly sticky. This will make one 16-inch or two 12-inch thin crust pizzas."
+        },
+        "cornbread": {
+            "name": "Cornbread",
+            "ingredients": [
+                "1 cup stone ground cornmeal",
+                "1 cup all purpose flour",
+                "1/3 cup sugar",
+                "2 1/2 tsp. baking powder",
+                "1/4 salt",
+                "1 cup buttermilk",
+                "6 Tbls butter, melted",
+                "1 egg, slightly beaten"
+            ],
+            "instructions": "Stir dry ingredients together in a bowl. Then add liquid ingredients and mix gently. Pour batter into greased, 9 inch square pan and bake at 400* for 25 minutes."
+        },
+        "banana_bread": {
+            "name": "Banana Bread",
+            "ingredients": [
+                "6 ripe bananas, ripe and mashed",
+                "4 eggs",
+                "1 1/3 cups oil",
+                "8 oz sour cream",
+                "4 cups sugar",
+                "4 cups flour",
+                "2 1/2 tsp. soda",
+                "1 1/2 tsp. salt",
+                "2 tsp. vanilla",
+                "2 cups nuts"
+            ],
+            "instructions": "Blend bananas, eggs, sugar, oil and sour cream until smooth. Sift together flour, soda and salt. mix all at once with banana mixture. Add vanilla and nuts and mix well. Grease and flour 3 loaf pans. Bake at 325* for 1 hour. Cool for 10 minutes then remove from pans. Add glaze if desired."
+        },
+        "zucchini_bread": {
+            "name": "Zucchini Bread",
+            "ingredients": [
+                "3 eggs",
+                "2 1/4 cups sugar",
+                "1 cup vegetable oil",
+                "3 tsp. vanilla",
+                "2 cups shredded zucchini",
+                "3 cups flour",
+                "1 tsp salt",
+                "1/4 tsp. baking powder",
+                "1 tsp. baking soda",
+                "3 tsp cinnamon",
+                "1 cup chopped nuts"
+            ],
+            "instructions": "Beat eggs thoroughly and add sugar and mix well. Add oil and mix again. Mix in vanilla and zuchinni. Sift dry ingredients and add to egg mixture. Stir in nuts. Bake at 350*for 1 hour or until done."
+        },
+        "dark_chocolate_zucchini_bread_with_coconut_glaze": {
+            "name": "Dark Chocolate Zucchini Bread with Coconut Glaze",
+            "ingredients": [
+                "2 large eggs",
+                "½ c. canola oil",
+                "½ c. granulated sugar",
+                "½ c. dark brown sugar",
+                "1 ½ tsp. Vanilla",
+                "1 tsp. Salt",
+                "½ baking soda",
+                "½ tsp. Baking powder",
+                "⅓ . Hershey’s dark cocoa",
+                "1 ⅔ c. unbleached flour",
+                "2 c. shredded zucchini",
+                "1 c. dark or semisweet chocolate chips"
+            ],
+            "instructions": "Coconut Glaze: 1 c. powdered sugar 2 Tbl. coconut milk ¼ c. coconut In large mixing bowl, beat the eggs, oil, sugars and vanilla until smooth. Add the salt, baking soda and powder, cocoa and flour mixing until well combined. Stir in the zucchini and chocolate chips. Pour batter into a greased loaf pan and bake at 350 degrees for 55 to 75 minutes until a toothpick comes out clean. Let bread cool in a loaf pan for 10-15 minutes before turning it out onto cooling rack. For the glaze, combine powdered sugar and coconut milk and stir until smooth. If necessary add a bit more coconut milk to get to desired consistency. Drizzle over warm bread completely before slicing."
+        },
+        "big_daddy_biscuits": {
+            "name": "Big Daddy Biscuits",
+            "ingredients": [
+                "2 cups flour",
+                "1 Tbl. baking powder",
+                "1 tsp salt",
+                "1 Tbl sugar"
+            ],
+            "instructions": "Mix all together and then cut in, 1/3 cup shortening or butter Stir in 1 cup milk knead 15-20 times then roll out to 1 inch thick or drop by large spoonful onto baking sheet. Bake at 425* for 13-15 minutes."
+        },
+        "best_crescent_rolls": {
+            "name": "Best Crescent Rolls",
+            "ingredients": [
+                "1 cup shortening or butter, or combo of both",
+                "1 cup boiling water",
+                "3/4 cup sugar",
+                "2 tsp salt",
+                "2 Tbl yeast in 1/2 cup warm water",
+                "1 cup cold water",
+                "3 large eggs, beaten",
+                "7 1/2 cups flour"
+            ],
+            "instructions": "Mix in a large bowl that has lid and can hold about 18 cups. Pour boiling water over shortening, sugar and salt. Allow to melt. Meanwhile soften yeast in water. Add cold water to shortening mix, then add eggs and yeast. Whisk in 4 cups of the flour. Stir in the rest of the flour with a wooden spoon. The dough will be sticky. Cover with lid and refrigerate overnight or at least 4 hours. Remove from fridge and divide into four quarters. Using 1 quarter at a time, roll out a 14 inch circle. Spread with softened butter and cut into 12 or 16 wedges like a pizza. Roll up from the wide end into crescents. Place on greased cookie sheet and allow to rise until doubled. Bake at 350* for 12-15 minutes until just lightly browned. Remove to cooling rack. The dough will store in the fridge for up to a week so you can keep it in airtight container and make just as many as you need each day. It also makes great cinnamon rolls."
+        },
+        "pumpkin_chip_muffins": {
+            "name": "Pumpkin Chip Muffins",
+            "ingredients": [
+                "4 eggs",
+                "2 cups sugar",
+                "1 can (16 oz) pumpkin",
+                "1 cup vegetable oil",
+                "3 cups flour",
+                "2 tsp. soda",
+                "2 tsp. baking powder",
+                "1 tsp. cinnamon",
+                "1 tsp salt",
+                "2 cups chocolate chips"
+            ],
+            "instructions": "In large bowl, beat eggs, sugar, pumpkin and oil until smooth. Combine flour, soda, baking powder, cinnamon and salt and add to pumpkin mixture. Fold in chocolate chips. Fill greased or paper lined muffin tins 3/4 full. Bake at 400* for 16-20 minutes. Cool in pan for a few minutes before removing. Makes about 30 muffins."
+        },
+        "flour_tortillas": {
+            "name": "Flour Tortillas",
+            "ingredients": [
+                "4 ½ c. flour",
+                "1 tsp. Salt",
+                "2 ½ c. heavy cream"
+            ],
+            "instructions": "Knead dough thoroughly. Divide into 24 or so rolls. Let sit for 15-20 minutes. Roll out on floured surface and cook in dry skillet on medium-high heat."
+        },
+        "cinnamon_rolls": {
+            "name": "Cinnamon Rolls",
+            "ingredients": ["2 cans evaporated milk"],
+            "instructions": "Add 1 Tbl. vinegar to sour- sprinkle 1/2 tsp. soda on top and set aside 3 Tbl. yeast in 1/3 cup warm water. Sprinkle 1 tsp sugar over this and mix. Let soften In a large bowl measure and mix together: 6 Tbls. shortening 2/3 cup sugar 1 tsp. salt 3 eggs Add yeast and milk to this mixture. Then add 9 cups flour, 2 at a time. Dough should be semi sticky. Let dough rise 1/2 hour then punch down and divide in 1/2. Roll out into oblong shape about 1/2 inch thick. Spread with softened butter, sugar and cinnamon. Roll up and slice 1 inch slices. I use a strand of dental floss for clean cut. Place on jelly roll pan and cover lightly. Let rise till double then bake at 375* for 12 minutes or until light golden brown. Frost with favorite frosting."
+        },
+        "maple_nut_sweet_rolls": {
+            "name": "Maple Nut Sweet Rolls",
+            "ingredients": [
+                "3/4 cup milk",
+                "1/4 cup butter",
+                "3 cups flour",
+                "3 Tbl sugar",
+                "1/2 tsp salt",
+                "1 Tbl. dry yeast",
+                "3/4 tsp. maple extract",
+                "1 egg"
+            ],
+            "instructions": "Filling, mix together: 1/2 cup sugar 1/3 cup chopped walnut 1 tsp. cinnamon 3/4 tsp. maple extract 1/4 cup butter, softened Glaze, mix together: 1 cup powdered sugar 2 Tbl butter, melted 1 Tbl. milk 1/2 tsp. maple extract To make dough, heat milk and butter in a small saucepan until warm. In large bowl, combine warm milk with 1 cup of the flour, sugar, salt, yeast, maple extract, and egg. Beat for 2 minutes with electric mixer on medium speed. Stir in the remaining flour by hand until the dough is elastic. Let rise for 30 minutes. Roll out dough into oblong and top with filling. Slice and place in jelly roll pan to rise until doubled. Bake at 375* for 18 minutes. Allow rolls to cool before frosting."
+        },
+        "strawberry_white_cake": {
+            "name": "Strawberry White Cake",
+            "ingredients": ["1 white cake mix in large sided pan - Bake"],
+            "instructions": "Prepare one package of Danish Dessert and then cool. Mix 8 oz. softened cream cheese with 1 cup powdered sugar. Mix in a small tub of cool whip then spread mixture over cake. Freeze. Top with 2 cups sliced strawberries mixed into Danish Dessert before serving."
+        },
+        "the_chocolate_cake": {
+            "name": "The Chocolate Cake",
+            "ingredients": [
+                "3 cups flour - Stir or beat together:",
+                "2 cups sugar",
+                "1/3 cup cocoa",
+                "2 tsp. salt",
+                "3 tsp. baking soda - then add and mix:",
+                "3/4 cup oil",
+                "1 tsp. vanilla",
+                "2 Tb. vinegar",
+                "2 cups cold water"
+            ],
+            "instructions": "bake at 350* for 30-35 minutes."
+        },
+        "angel_food_cake": {
+            "name": "Angel Food Cake",
+            "ingredients": [
+                "1 3/4 cups sugar",
+                "1/4 tsp. salt",
+                "1 cup cake flour",
+                "12 egg whites, room temperature",
+                "1/3 cup warm water",
+                "1 tsp vanilla",
+                "1 1/2 tsp. cream of tartar"
+            ],
+            "instructions": "Process sugar until very fine. sift together dry ingredients. Combine egg whites, water, vanilla and cream of tartar and beat until medium peaks can be formed. Gently stir in flour mixture a little at a time until incorporated. Bake at 350* in ungreased tube pan for 35 min. Invert on rack until completely cooled then carefully remove from pan."
+        },
+        "poppy_seed_cake": {
+            "name": "Poppy Seed Cake",
+            "ingredients": [
+                "1 pkg. cake mix (yellow, lemon, vanilla or white)",
+                "1 small box instant vanilla pudding",
+                "1/2 cup oil",
+                "4 eggs",
+                "1 cup water",
+                "2Tbl. poppy seeds",
+                "3/4 tsp. almond extract"
+            ],
+            "instructions": "Mix together and pour into greased bundt pan. Bake at 350* for 40-45 minutes. Top with a dusting of powdered sugar."
+        },
+        "grandma_luanna's_hot_fudge_sauce_(grandma_great)": {
+            "name": "Grandma Luanna's Hot Fudge Sauce (Grandma Great)",
+            "ingredients": ["4 Tbl. cocoa", "2 Tbl flour", "1 cup sugar"],
+            "instructions": "Mix together in saucepan then add: 1 can evaporated milk Boil for 2 minutes then add: 4 Tbl. butter 1 tsp. Vanilla"
+        },
+        "zucchini_brownies": {
+            "name": "Zucchini Brownies",
+            "ingredients": [
+                "2 cups sugar",
+                "3 eggs",
+                "1 cup oil",
+                "1/2 cup milk",
+                "2 cups grated zucchini",
+                "3 tsp. vanilla",
+                "2 1/2 cups flour",
+                "1 tsp. soda",
+                "1 tsp salt",
+                "1/4 tsp baking powder",
+                "1/2 cup cocoa"
+            ],
+            "instructions": "Combine sugar and eggs and beat well. Add oil, milk, vanilla and zucchini and mix well. Measure dry ingredients together and add all at once, mixing well. Pour into a greased large jelly roll pan (12x14x2) and bake at 350* for 25 minutes or until toothpick is no longer gooey. Frosting: 6 Tbl butter 4 Tbl. milk 4 Tbl cocoa 4 cups powdered sugar In a medium size saucepan, on medium low heat, bring the butter, milk and cocoa to a boil. Remove from heat and stir in powdered sugar until frosting is soft but not too soupy. Spread carefully over warm brownies. Cool then cut."
+        },
+        "pie_crust_dough": {
+            "name": "Pie Crust Dough",
+            "ingredients": [
+                "2 ½ c. flour",
+                "1 tsp. Salt",
+                "¾ c. shortening",
+                "¼ c. butter",
+                "6-8 Tbl. ice cold water"
+            ],
+            "instructions": "Stir the flour and salt together in a large bowl then cut in the shortening and butter with a pastry blender until the mixture resembles coarse crumbs. Sprinkle with ice water a little at a time and stir with a fork until all the dough is moistened and holds together. Divide dough in half and roll out on a well floured surface to fit your pie dish."
+        },
+        "apple_pie": {
+            "name": "Apple Pie",
+            "ingredients": [
+                "6-7 golden delicious apples,",
+                "3/4 cups sugar",
+                "2 Tbl. flour",
+                "1 tsp. cinnamon",
+                "1/2 tsp. nutmeg"
+            ],
+            "instructions": "Peel and slice apples. Gently mix in spices. Place in unbaked pie shell Topping: 1/2 cup sugar 3/4 cup flour 1/3 cup butter Cut butter into flour and sugar until crumbly and spread on top of pie. Bake at 400* about 40-50 minutes."
+        },
+        "heavenly_chocolate_pie": {
+            "name": "Heavenly Chocolate Pie",
+            "ingredients": [
+                "1 (8 oz.) package cream cheese",
+                "1/2 cup sugar",
+                "16 oz cool whip",
+                "2 1/2 cups milk",
+                "1 lrg. package instant chocolate pudding",
+                "2 pie crusts (graham or standard)"
+            ],
+            "instructions": "Blend cream cheese, sugar and 1/2 of the cool whip. Pour this mixture into pie crusts. Mix the pudding with milk and pour into crusts. Top with other half of cool whip. Optional: garnish with shredded chocolate."
+        },
+        "pistachio_bundt_cake": {
+            "name": "Pistachio Bundt Cake",
+            "ingredients": [
+                "15 ounce box yellow cake mix",
+                "3.4 ounce box instant pistachio pudding mix",
+                "1 c. milk",
+                "¼ c. melted butter",
+                "4 large eggs"
+            ],
+            "instructions": "Powdered sugar for dusting Preheat oven to 350 degrees. Grease and lightly flour bundt cake pan. Beat together cake mix, pudding, milk, butter and eggs for 2 minutes. Pour into bundt cake pan and bake for 50-60 minutes or until toothpick comes out clean. Let cake cool in pan for 15 minutes then invert onto wire rack and allow to cool completely. Dust with powdered sugar before serving."
+        },
+        "orange_bundt_cake": {
+            "name": "Orange Bundt Cake",
+            "ingredients": [
+                "1 box yellow cake mix",
+                "1 box instant vanilla pudding",
+                "1 c. fresh orange juice (approx 5 oranges)",
+                "½ c. melted butter",
+                "¼ c. granulated sugar",
+                "1 tsp. Vanilla",
+                "4 large eggs"
+            ],
+            "instructions": "Glaze: 1 c. powdered sugar 3 Tbl. orange juice 1 tsp. Orange zest Preheat oven to 350 degrees. Grease and lightly flour bundt cake pan. Blend all ingredients well. Pour into bundt pan and bake for 45-50 minutes or until toothpick comes out clean. Cool in pan for 15 minutes then invert onto wire rack and allow to cool for 30 minutes. Mix glaze and drizzle over top of cake."
+        },
+        "chocolate_chip_nut_bars": {
+            "name": "Chocolate Chip Nut Bars",
+            "ingredients": [
+                "1/3 cup margarine - Beat together",
+                "1 cup brown sugar",
+                "1 egg",
+                "1 tsp. vanilla",
+                "1 cup flour - Add and mix",
+                "1/4 tsp. soda",
+                "1/4 tsp. salt",
+                "1/2 to 1 cup chocolate chips",
+                "1/2 cup nuts"
+            ],
+            "instructions": "Bake at 350* 25-30 minutes (Triple for cookie sheet) Do not overcook!"
+        },
+        "peanut_butter_fingers": {
+            "name": "Peanut Butter Fingers",
+            "ingredients": [
+                "3/4 cup shortening",
+                "3/4 cup butter",
+                "1 1/2 cups sugar",
+                "1 1/2 cups brown sugar",
+                "3 eggs",
+                "1 1/2 cups peanut butter",
+                "1 1/2 tsp. soda",
+                "3/4 tsp. salt",
+                "1 tsp. vanilla",
+                "3 cups oatmeal",
+                "3 cups flour"
+            ],
+            "instructions": "Mix shortening, butter and sugars. Add eggs one at a time, then peanut butter. Next add vanilla and then soda and salt. Add flour and oats all at once and mix. Press into two greased jelly roll pans. Bake seperately at 350* for 10-12 minutes. As soon as you remove them from the oven, sprinkle with chocolate chips and let them sit for a few minutes to melt. Spread melted chocolate over cookies. Another option is to let cool completely and frost with chocolate frosting."
+        },
+        "thick_and_chewy_peanut_butter_cookies": {
+            "name": "Thick and Chewy Peanut Butter Cookies",
+            "ingredients": [
+                "1/2 cup butter",
+                "1/2 cup sugar",
+                "1/2 cup brown sugar",
+                "1/2 cup creamy peanut butter",
+                "1 large egg",
+                "1 tsp. vanilla",
+                "1 1/2 cups flour",
+                "1 tsp. baking soda",
+                "1/2 tsp salt"
+            ],
+            "instructions": "Cream the butter and sugars together then add peanut butter, egg and vanilla. Mix well. Combine dry ingredients and mix into butter mixture all at once. Bake at 350* for 10-12 minutes or just until set. allow cookies to cool on cooling rack."
+        },
+        "sugar_cookies": {
+            "name": "Sugar Cookies",
+            "ingredients": [
+                "1/2 cup butter or shortening",
+                "1 1/4 cups sugar",
+                "2 eggs",
+                "1 tsp vanilla",
+                "1/2 cup sour cream",
+                "3 2/3 cups flour",
+                "1 tsp. baking powder",
+                "1/2 tsp. soda",
+                "1/2 tsp. salt"
+            ],
+            "instructions": "Mix butter and sugar together. Add eggs and vanilla and sour cream. mix until smooth. sift dry ingredients together then add to butter mixture. Refrigerate for 1-2 hours then roll out to 1/4 inch thick. Cut into desired shape and bake at 375* for 7-8 minutes. promptly move to cooling rack and frost once completely cooled."
+        },
+        "homemade_oreo_cookies": {
+            "name": "Homemade Oreo Cookies",
+            "ingredients": [
+                "2 boxes devils food cake mix",
+                "4 eggs",
+                "1 1/2 cups shortening",
+                "1 8 oz pkg. cream cheese - Filling",
+                "1/2 cup butter - Filling",
+                "2 1/2 cups powdered sugar - Filling"
+            ],
+            "instructions": "Mix together. Batter will be stiff. Roll into balls and cook on cookie sheet in 350* oven for 10 min. Mix as for frosting and fill cookies"
+        },
+        "chocolate_haystacks": {
+            "name": "Chocolate Haystacks",
+            "ingredients": [
+                "3 c. oatmeal - Mix together in bowl then set aside",
+                "2 Tbl. cacao - Mix together in bowl then set aside",
+                "1 c. coconut - In saucepan, heat together, stirring continuously, until it reaches a boil",
+                "2 c. sugar - In saucepan, heat together, stirring continuously, until it reaches a boil",
+                "½ c. butter - In saucepan, heat together, stirring continuously, until it reaches a boil",
+                "½ c. milk - In saucepan, heat together, stirring continuously, until it reaches a boil",
+                "1 tsp. Vanilla - Turn off heat and add"
+            ],
+            "instructions": "⅛ tsp. Salt - Turn off heat and add Pour syrup over oatmeal mix and stir together. Drop by spoonful onto parchment paper to cool."
+        },
+        "peanut_butter_kiss_cookie": {
+            "name": "Peanut Butter Kiss Cookie",
+            "ingredients": [
+                "1 cup butter",
+                "1 cup peanut butter",
+                "1 cup sugar",
+                "1 cup brown sugar",
+                "2 eggs",
+                "1 tsp vanilla",
+                "3 cups flour",
+                "1 tsp baking powder",
+                "1 ½ tsp baking soda",
+                "1/2 tsp salt"
+            ],
+            "instructions": "About ⅓ cup sugar for rolling About 48 Hershey Kisses Cream butter, peanut butter, and sugars in a large bowl till creamy. Beat in eggs and vanilla. Stir in dry ingredients. Preheat to 350. Roll dough into 1in balls in sugar. Place on lightly greased cookie sheet. Bake at 350 for 10 min. Remove and immediately press in kiss. Let sit for 3 min and move to the cooling rack."
+        },
+        "caramel_apple_bars": {
+            "name": "Caramel Apple Bars",
+            "ingredients": [
+                "2 c. flour (crust)",
+                "2 c. quick rolled oats (crust)",
+                "1 ½ c. firmly packed brown sugar (crust)",
+                "1 tsp. Baking soda (crust)",
+                "1 ¼ c. butter, melted (crust)",
+                "1 ½ c. caramel ice cream topping (filling)",
+                "½ flour (filling)",
+                "2 c. coarsely chopped apples (filling)",
+                "½ c. chopped walnuts or pecans (filling)"
+            ],
+            "instructions": "Grease 15x10 baking pan. In large bowl, combine all crust ingredients, mix at low speed until crumbly. Press half of crumb mixture in greased pan. Reserve remaining crumb mixture for topping. Bake at 375 degrees for 8 minutes. In small saucepan over medium heat, combine caramel topping and flour. Bring to a boil, stirring constantly. Boil 3-5 minutes until mixture thickens slightly. Sprinkle apples and nuts onto warm base. Pour caramel mixture over top. Sprinkle with reserved crumbs. Return to oven and bake 20-25 minutes at 350 degrees until golden brown. Cool completely. Cut into bars. Store in tightly covered container in refrigerator. Makes 4 dozen."
+        },
+        "chocolate_chip_cookies": {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+                "¾ c salted butter, softened",
+                "¼ c. canola oil",
+                "1 c. sugar",
+                "1 c. brown sugar",
+                "2 eggs",
+                "1 tsp. Vanilla",
+                "1 tsp. Baking soda",
+                "1 tsp. Baking powder",
+                "1 tsp. Salt",
+                "3 c. flour",
+                "1 ½ c. chocolate chips"
+            ],
+            "instructions": "Preheat oven to 350%. Cream butter, oil and sugars together. Add eggs and vanilla. Beat until batter is fluffy. Mix together and then add baking soda, baking powder, salt and flour. Mix just until incorporated. Fold in chocolate chips by hand. Scoop cookies with a large scoop. Place on cookie sheet at least 2 inches apart. Bake 8-10 minutes. Remove to cooling rack immediately."
+        },
+        "homemade_root_beer": {
+            "name": "Homemade Root Beer",
+            "ingredients": [
+                "1 bottle root beer extract",
+                "5 gallons water",
+                "5 pounds of sugar",
+                "5 pounds of dry ice"
+            ],
+            "instructions": "Mix extract, sugar and water until dissolved. Add dry ice and let it bubble for an hour. Makes about 60-70 cups."
+        },
+        "good_water": {
+            "name": "Good Water",
+            "ingredients": [
+                "5 quarts water",
+                "3 cups sugar",
+                "1 Tbl. lemon extract",
+                "1 Tbl. citric acid"
+            ],
+            "instructions": "pebble ice Sliced lemons and limes mix all ingredients and add enough ice so that it stays very well chilled."
+        }
+    }
+}
